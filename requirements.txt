@@ -1,0 +1,8 @@
+pandas
+streamlit
+openpyxl
+streamlit-aggrid
+sentence-transformers
+tabulate
+pyxlsb
+xlsxwriter
